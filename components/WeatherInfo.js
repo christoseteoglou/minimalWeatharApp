@@ -26,3 +26,7 @@ const styles = StyleSheet.create({
         height: 100
     }
 })
+
+
+// Going to add more customization to this part, better colors and icons, and to try and get some
+// of my own icons and designs into the weather details. 
